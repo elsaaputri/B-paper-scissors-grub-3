@@ -1,5 +1,5 @@
 #include <iostream>
-#include <algorithm>a
+#include <algorithm>
 using namespace std;
 
 // Fungsi untuk menghasilkan pilihan acak komputer
